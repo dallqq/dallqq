@@ -2,7 +2,6 @@
 
 I'm an AI-focused Full Stack Developer and BS Computer Science (Artificial Intelligence) student at West Visayas State University in Iloilo City, Philippines.
 
-
 ## My Skills
 
 ### Programming Languages
@@ -28,7 +27,7 @@ I'm an AI-focused Full Stack Developer and BS Computer Science (Artificial Intel
 ### Databases & BaaS
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Directus](https://img.shields.io/badge/Directus-6644FF?style=for-the-badge&logo=directus&logoColor=white)
-
