@@ -2,6 +2,7 @@
 
 I'm an AI-focused Full Stack Developer and BS Computer Science (Artificial Intelligence) student at West Visayas State University in Iloilo City, Philippines.
 
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-dallasaquino.xyz_%E2%86%92-000000?style=for-the-badge)](https://dallasaquino.xyz)
 ## My Skills
 
 ### Programming Languages
